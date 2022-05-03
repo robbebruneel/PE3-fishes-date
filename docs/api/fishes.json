@@ -1,0 +1,207 @@
+{
+    "fishes":[{
+        "id": 1,
+        "name": "Alver",
+        "latinName": "Alburnus alburnus",
+        "img": "../img/AlburnusAlburnus.jpg",
+        "description": "De alver is een zoetwatervis die behoort tot de eigenlijke karpers. De alver is een zijdelings afgeplat, zilverachtig visje dat wat stijf aandoet. Hij kan maximaal 25 cm groot worden, maar is over het algemeen kleiner dan 15 cm. Bij direct zonlicht vallen ook parelmoerachtige kleuren op die worden veroorzaakt door de grote hoeveelheid guaninekristallen in de schubben.",
+        "environment": "freshwater",
+        "otherNames": ["moertje", "alvenaar", "alfje", "alft", "nesteling", "panharing", "schieter", "spekje", "ablette"],
+        "price": 500
+    },
+    {
+        "id": 2,
+        "name": "Barbeel",
+        "latinName": "Barbus barbus",
+        "img": "../img/Barbel.jpg",
+        "description": "De barbeel (Barbus barbus) is een gestroomlijnde karperachtige vis van de middenlopen van rivieren, de zogenaamde barbeelzone.De barbeel is een bijna rolronde, langgerekte vis met puntige kop, een onderstandige bek, twee grote baarddraden in de mondhoek en twee baarddraden aan de punt van de bovenkaak. De buik en de onderkant van de snuit zijn wat afgeplat.",
+        "environment": "freshwater",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "name": "Bronforel",
+        "latinName": "Salvelinus fontinalis",
+        "img": "../img/Brook_trout.jpg",
+        "description": "De bronforel is een vis uit het geslacht Salvelinus in de familie van de Zalmen. De soort kwam oorspronkelijk voor in het oosten van Noord-Amerika, maar is door de mens onder meer in andere delen van Noord-Amerika, in Europa en in Azië uitgezet. De Engelse naam is Brook char of Eastern brook trout.",
+        "environment": "freshwater",
+        "price": 15
+    },
+    {
+        "id": 4,
+        "name": "Fint",
+        "latinName": "Alosa fallax",
+        "img": "../img/Alosa_fallax.jpg",
+        "description": "De fint is een vis uit de haringfamilie en kan zestig centimeter lang worden.Vanwege de stippen op zijn flanken wordt hij ook wel de 'gestipte reuzenharing' genoemd.",
+        "environment": "freshwater",
+        "otherNames": "meivis",
+        "price": 15
+    },
+    {
+        "id": 5,
+        "name": "Guppy",
+        "latinName": "Poecilia reticulata",
+        "img": "../img/Guppy-Male-and-Female.jpg",
+        "description": "De gup is wereldwijd het meest populaire aquariumvisje. De mannetjes worden gemiddeld 4 en de vrouwtjes 6 cm lang.De guppy kent veel variatie in kleur en vinvorm. Lokale populaties van de guppy hebben vaak een eigen uiterlijk ontwikkeld. ",
+        "environment": "freshwater",
+        "otherNames": ["missionarisvisje", "miljoenenvisje"],
+        "price": 25
+    },
+    {
+        "id": 6,
+        "name": "Paling",
+        "latinName": "Anguilla anquilla",
+        "img": "../img/Anguilla_anguilla.jpg",
+        "description": "Deze bruin tot grijsachtig gekleurde vis heeft een zeer langwerpig lichaam dat meer dan een meter lang kan worden. Door de karakteristieke lichaamsbouw, lage rugkam en nauwelijks zichtbare schubben is deze gemakkelijk van andere vissen te onderscheiden.",
+        "environment": "freshwater",
+        "otherNames": "aal",
+        "price": 15
+    },
+    {
+        "id": 7,
+        "name": "Sneep",
+        "latinName": "Chondrostoma nasus",
+        "img": "../img/Chondrostoma_nasus.jpg",
+        "description": "De sneep is een vis van de middenlopen van rivieren, dus van de barbeelzone. De sneep was in de referentieperiode vrij talrijk in de Maas maar kwam ook voor in de andere grote rivieren. De sneep is met meer dan een factor tien (90%) achteruitgegaan in aantal sinds de referentieperiode.",
+        "environment": "freshwater",
+        "price": 750
+    },
+    {
+        "id": 8,
+        "name": "Winde",
+        "latinName": "Leuciscus idus",
+        "img": "../img/IdeLeuciscusIdus50cm.jpg",
+        "description": "De vis komt voor in open water. Hij kan na 6 jaar een lengte van 30 cm bereiken. Hij kan echter tot 80 cm lang worden. Exemplaren van ca. 50 cm zijn niet zeldzaam.Het oog van de winde is kleurloos, hij heeft relatief kleine schubjes (55-61 schubben langs de zijlijn). ",
+        "environment": "freshwater",
+        "othernames": "zilverwinde",
+        "price": 20
+    },
+    {
+        "id": 9,
+        "name": "Witvingrondel",
+        "latinName": "Romanogobio belingi",
+        "img": "../img/Witvingrondel10-7.jpg",
+        "description": "De witvingrondel is een (waarschijnlijk) exotische vissoort, die op 12 juni 2004 in het stroomgebied van de Rijn als nieuwe soort voor Nederland werd ontdekt. De vis komt nu zeer veelvuldig voor in de Rijn en de Rijntakken.",
+        "environment": "freshwater",
+        "price": 950
+    },
+    {
+        "id": 10,
+        "name": "Zonnebaars",
+        "latinName": "Lepomis gibbosus",
+        "img": "../img/Lepomis_gibbosus.jpg",
+        "description": "De zonnebaars is een vis die in de Lage Landen tot 20 centimeter groot kan worden. Aan de oostkust en het midden van de Verenigde Staten, waar de zonnebaars vandaan komt, kan ze tot 25 centimeter lang worden.",
+        "environment": "freshwater"
+    },
+    {
+        "id": 11,
+        "name": "Zwarte dwergmeerval",
+        "latinName": "Ameiurus melas",
+        "img": "../img/Ameiurus_melas_by_Duane_Raver.png",
+        "description": "De zwarte dwergmeerval (Ameiurus melas) is een exotische vis die voorkomt in de wateren van de Benelux. Van oorsprong komt hij uit het oosten van de Verenigde Staten. De zwarte dwergmeerval kan een lengte bereiken van 20/30 cm met een maximum van 45 cm en kan tot 5 jaar oud worden.",
+        "environment": "freshwater",
+        "price": 27
+    },
+    {
+        "id": 12,
+        "name": "Zwarte neon",
+        "latinName": "Hyphessobrycon herbertaxelrodi",
+        "img": "../img/Black_neon_tetra.jpg",
+        "description": "Zeer vreedzaam en wat schuw visje. De zwarte neon is een echte scholenvis en moet daarom met minimaal 6 exemplaren worden gehouden. In een grotere school voelen ze zich beter op hun gemak. ",
+        "environment": "freshwater",
+        "price": 10
+    },
+    {
+        "id": 13,
+        "name": "Anemoonvis",
+        "latinName": "Amphiprion Ocellaris",
+        "img": "../img/Anemoonvis.jpg",
+        "description": "Deze zoutwatervissen kennen we natuurlijk allemaal door de film Finding Nemo.Dit is dan ook de Nemo-soort onder de anemoonvissen.Anemoonvissen zijn namelijk niet bepaald vriendelijk voor indringers in hun territorium en zullen de andere soorten anemoonvissen net zolang opjagen totdat deze overlijden.",
+        "environment": "saltwater",
+        "price": 25
+    },
+    {
+        "id": 14,
+        "name": "Blauwe doktersvis",
+        "latinName": "Parancanthurus Hepatus",
+        "img": "../img/Blauwe-doktersvis.jpg",
+        "description": "Ook de doktersvissen zijn populair geworden door de film Finding Nemo. Het karakter Dory is namelijk een doktersvis!",
+        "environment": "saltwater",
+        "price": 20
+    },
+    {
+        "id": 15,
+        "name": "Henkie",
+        "latinName": "Salarias Fasciatus",
+        "img": "../img/Salarias-Fasciatus-Henkie.jpg",
+        "description": " Deze vis is namelijk een echte algeneter en tijdens de opstart van je zoutwater aquarium heb je natuurlijk veel te maken met vervuiling en alg.",
+        "environment": "saltwater",
+        "price": 23
+    },
+    {
+        "id": 16,
+        "name": "Gele doktersvis",
+        "latinName": "Zebrasoma Flavescens",
+        "img": "../img/Gele-doktersvis.jpg",
+        "description": " Deze vis is een populaire en makkelijk te houden vis voor in een zoutwater aquarium. Dit is een van de meest gekochte doktersvissen en in de aquariumwereld ook erg populair doordat deze makkelijk te houden is, en natuurlijk vanwege de mooie kleur.",
+        "environment": "saltwater",
+        "price": 22
+    },
+    {
+        "id": 17,
+        "name": "Juweel kardinaalbaars",
+        "latinName": "Pterapogon Kauderni",
+        "img": "../img/Juweel-kardinaalbaars.jpg",
+        "description": " De juweel kardinaalbaars is een leuke en rustige beginnersvis. Je kunt ze makkelijk in een groepje houden. Het zijn geen drukke zwemmers en ze hangen graag samen in het midden van de bak bij elkaar. Het zijn vriendelijke zoutwatervissen en ze kunnen goed samen met andere soorten.",
+        "environment": "saltwater",
+        "price": 27
+    },
+    {
+        "id": 18,
+        "name": "Rode dwergkeizer",
+        "latinName": "Centropyge Loricula",
+        "img": "../img/Rode-dwergkeizer.jpg",
+        "description": "De rode dwergkeizer is een prachtige vis met mooie felle kleuren. Deze vis is een echte eyecatcher in je aquarium! Deze vis is makkelijk te houden, maar moet wel alleen worden gehouden. Mannetjes onderling gaan namelijk met elkaar vechten.",
+        "environment": "saltwater",
+        "price": 28
+    },
+    {
+        "id": 19,
+        "name": "Koningsgramma",
+        "latinName": "Gramma Loreto",
+        "img": "../img/Koningsgramma.jpg",
+        "description": "De koningsgramma is een populaire vis onder zoutwater aquarianen. Dit komt natuurlijk door de prachtige heldere paarse en gele kleuren. Een volwassen koningsgramma wordt ongeveer 10 centimeter lang. Deze zoutwatervissen zijn prima te houden voor de beginnende aquariaan. De rode dwergkeizer, is een prachtige vis met mooie felle kleuren. Deze vis is een echte eyecatcher in je aquarium! Deze vis is makkelijk te houden, maar moet wel alleen worden gehouden. Mannetjes onderling gaan namelijk met elkaar vechten.",
+        "environment": "saltwater",
+        "price": 27
+    },
+    {
+        "id": 20,
+        "name": "Blauwe mandarijn pitvis",
+        "latinName": "Pterosynchiropus Splendens",
+        "img": "../img/Blauwe-mandarijn-pitvis.jpg",
+        "description": "De blauwe mandarijn pitvis is misschien wel een van de mooiste zeewatervissen. Deze vis is prachtig gekleurd en heeft een soort psychedelisch patroon van oranje, geel en groen dat overvloeit in de rest van het lichaam wat neon blauw gekleurd is.",
+        "environment": "saltwater",
+        "price": 34
+    },
+    {
+        "id": 21,
+        "name": "Gele lipvis",
+        "latinName": "Halichoerus Chrysus",
+        "img": "../img/Gele-lipvis.jpg",
+        "description": "De gele lipvis is een leuk en druk visje voor in het aquarium. In de natuur komen ze voornamelijk voor bij Australië en Bali. Deze zoutwatervissen zwemmen erg veel, maar als ze slapen liggen ze op de bodem, onder het zand. Daar zullen ze ook gaan liggen als er gevaar dreigt. ",
+        "environment": "saltwater",
+        "price": 34
+    },
+    {
+        "id": 22,
+        "name": "Grote koraalduivel",
+        "latinName": "Pterois Volitans",
+        "img": "../img/Grote-koraalduivel.jpg",
+        "description": "De grote koraalduivel is een erg indrukwekkende vis. Er zijn verschillende soorten, zo zijn er ook dwergversies die ideaal zijn voor in gezelschapsbakken. De grote koraalduivels zijn echter alleen houdbaar bij vissen die groter zijn dan zijzelf; de rest zullen ze namelijk aanzien voor voer.",
+        "environment": "saltwater",
+        "price": 62
+    }
+]
+
+    ]
+}
